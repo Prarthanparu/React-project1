@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-project1/static/css/main.6f658650.chunk.css",
+    "main.js": "/React-project1/static/js/main.640549f1.chunk.js",
+    "main.js.map": "/React-project1/static/js/main.640549f1.chunk.js.map",
+    "runtime-main.js": "/React-project1/static/js/runtime-main.dd183ea9.js",
+    "runtime-main.js.map": "/React-project1/static/js/runtime-main.dd183ea9.js.map",
+    "static/css/2.fbb149ea.chunk.css": "/React-project1/static/css/2.fbb149ea.chunk.css",
+    "static/js/2.71afc46e.chunk.js": "/React-project1/static/js/2.71afc46e.chunk.js",
+    "static/js/2.71afc46e.chunk.js.map": "/React-project1/static/js/2.71afc46e.chunk.js.map",
+    "index.html": "/React-project1/index.html",
+    "static/css/2.fbb149ea.chunk.css.map": "/React-project1/static/css/2.fbb149ea.chunk.css.map",
+    "static/css/main.6f658650.chunk.css.map": "/React-project1/static/css/main.6f658650.chunk.css.map",
+    "static/js/2.71afc46e.chunk.js.LICENSE.txt": "/React-project1/static/js/2.71afc46e.chunk.js.LICENSE.txt",
+    "static/media/P 1.df76fca1.png": "/React-project1/static/media/P 1.df76fca1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd183ea9.js",
+    "static/css/2.fbb149ea.chunk.css",
+    "static/js/2.71afc46e.chunk.js",
+    "static/css/main.6f658650.chunk.css",
+    "static/js/main.640549f1.chunk.js"
+  ]
+}
